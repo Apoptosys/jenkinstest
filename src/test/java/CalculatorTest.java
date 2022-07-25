@@ -19,7 +19,7 @@ class CalculatorTest {
 
     @Test
     void sub() {
-        assertEquals(5, calculator.sub(6,2));
+        assertEquals(5, calculator.sub(6,1));
     }
 
     @Test
